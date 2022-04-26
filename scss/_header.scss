@@ -1,0 +1,18 @@
+body{
+    font-family: inria-sans;
+    .encabezado{    
+        color: $color;
+        display: flex;  
+        align-items: center;
+            @keyframes texto{
+                from{ transform: translateY(-100px)
+            }
+            to{transform: translateY(0)}
+            }
+            .tituloAnimado{
+                animation-name: texto;
+                animation-duration: 1s;       
+            }
+    }
+    
+}

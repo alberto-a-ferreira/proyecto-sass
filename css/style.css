@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+@font-face {
+  font-family: inria-sans;
+  src: url(../inria-sans/InriaSans-Bold.ttf);
+}
+body {
+  font-family: inria-sans;
+}
+body .encabezado {
+  color: white;
+  display: flex;
+  align-items: center;
+}
+@keyframes texto {
+  from {
+    transform: translateY(-100px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+body .encabezado .tituloAnimado {
+  animation-name: texto;
+  animation-duration: 1s;
+}
+
+.fondo {
+  background-image: linear-gradient(to left, #05372a, #004550, #004f97, #0051dc, #121deb);
+}
+
+.icono {
+  font-size: 30px;
+  color: white;
+}
+.icono:hover {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
