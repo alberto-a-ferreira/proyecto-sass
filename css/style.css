@@ -31,12 +31,36 @@ body .encabezado .tituloAnimado {
   background-image: linear-gradient(to left, #05372a, #004550, #004f97, #0051dc, #121deb);
 }
 
-.icono {
+.iconoFacebook {
   font-size: 30px;
   color: white;
 }
-.icono:hover {
-  color: red;
+.iconoFacebook:hover {
+  color: rgb(34, 123, 238);
+}
+
+.iconoInstagram {
+  font-size: 30px;
+  color: white;
+}
+.iconoInstagram:hover {
+  color: rgb(236, 13, 99);
+}
+
+.iconoWhats {
+  font-size: 30px;
+  color: white;
+}
+.iconoWhats:hover {
+  color: rgb(0, 255, 42);
+}
+
+.iconoEmail {
+  font-size: 30px;
+  color: white;
+}
+.iconoEmail:hover {
+  color: rgb(255, 115, 0);
 }
 
 /*# sourceMappingURL=style.css.map */
