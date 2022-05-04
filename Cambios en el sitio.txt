@@ -1,0 +1,9 @@
+Se agregó las siguientes keywords: minerales, abrasivos, silicar, distribuidora, ceramica, yesos, oxidos.
+
+Se agregó en los "title" el texto: disctribuidora Silicar.
+
+Modifiqué la jerarquia de los titulos.
+
+Agregué una pequeña descripcion de cada página del sitio.
+
+
